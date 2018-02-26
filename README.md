@@ -1,7 +1,7 @@
 # ScriptableObjects
 
 
-## Download
+## Try it out yourself!
 1. Download the [Standalone](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GameDevPyro/ScriptableObjects/tree/master/Standalone).
 2. Unzip the .zip document.
 3. Run "Scriptable Objects.exe"
