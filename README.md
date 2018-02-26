@@ -32,7 +32,7 @@ The list is dynamically generated from existing Monsters.
 ![Pouic](Screenshots/7.png)
 
 ### 6. You can move the Wheels too!
-Up to their maximum value (20 VP and 12LP)
+Up to their maximum value (20 VP and 12 LP)
 ![Moving Wheels 1/2](Screenshots/8.png)
 
 ... or down until it reaches 0.
